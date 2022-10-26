@@ -1,5 +1,6 @@
 public class Department {
     private double grade;
+    
     public void printStudent(String studentNumber){
     
     }
