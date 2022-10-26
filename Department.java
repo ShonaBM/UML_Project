@@ -1,9 +1,9 @@
 public class Department {
     private double grade;
-    public printStudent(String studentNumber){
+    public void printStudent(String studentNumber){
     
     }
-    public printTeacher(String staffNumber){
+    public void printTeacher(String staffNumber){
     
     }
 }
